@@ -4,7 +4,7 @@
 
 Watch the complete code walkthrough and execution demonstration:
 
-[Apache Beam Feature Demonstration - Video Walkthrough](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[Apache Beam Feature Demonstration - Video Walkthrough](https://youtu.be/baQRIm9-Ang)
 
 ## Overview
 
